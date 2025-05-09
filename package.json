@@ -1,0 +1,21 @@
+{
+  "name": "walletconnect-dapp",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@web3modal/ethereum": "^3.4.0",
+    "@web3modal/react": "^3.4.0",
+    "viem": "^1.26.2",
+    "wagmi": "^1.6.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^5.0.0"
+  }
+}
